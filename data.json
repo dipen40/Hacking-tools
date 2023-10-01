@@ -376,7 +376,20 @@
     "Image": "https://static.wixstatic.com/media/4e884c_2ccd0499a9824a71a885b0d186ab6af3~mv2.png/v1/fit/w_400%2Ch_222%2Cal_c/file.png",
     "More info": "https://github.com/openwall/john"
 
+
+{
+    "id": 303,
+    "name": "  Subjack",
+    "purpose": "Subjack is a Subdomain Takeover tool written in Go designed to scan a list of subdomains.",
+    "Type": "host scanner",
+    "CurrentVersion": " 2.1 ",
+    "Image": " ",
+    "More info": "https://github.com/haccer/subjack"
+
+  }
+
  }
+
 
 
 
